@@ -1,0 +1,25 @@
+{
+  "name": "COMP1073-W2017-Lesson1",
+  "homepage": "https://github.com/GeorgianCollege/COMP1073-W2017-Lesson1",
+  "authors": [
+    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+  ],
+  "description": "Demo app for Lesson 1",
+  "main": "",
+  "keywords": [
+    "JavaScript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "^3.3.7"
+  }
+}
